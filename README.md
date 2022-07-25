@@ -12,7 +12,7 @@ NOTE: It will take a few minutes for this key to become active!
 
 Copy your API key value and replace the value of `myOpenWeatherApiKey` at the top of App.js, with your key value.
 
-Go through your usual set-up commands (`npm install` and `npm start`) to get the project running.
+Go through your usual set-up commands (`npm install` and `npm run dev`) to get the project running.
 
 # Initial Challenge
 
