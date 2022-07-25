@@ -7,7 +7,7 @@ import InputZipCode from './components/InputZipCode';
 import TemperatureDisplay from './components/TemperatureDisplay';
 
 // API KEY
-const myOpenWeatherApiKey = "your_api_key" /* <-- replace with your api key here (using https://home.openweathermap.org/api_keys)*/
+const myOpenWeatherApiKey = '51a2e48927f15d018aff30af98c9b4ae' /* <-- replace with your api key here (using https://home.openweathermap.org/api_keys)*/
 
 class App extends Component {
   // states
